@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/TheJKL/JackalTasks/issues"
   },
-  "homepage": "https://github.com/TheJKL/JackalTasks#readme"
+  "homepage": "https://github.com/TheJKL/JackalTasks#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
